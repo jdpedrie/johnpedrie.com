@@ -32,11 +32,11 @@ a {
 }
 
 .links ul li{
-  font-size:0.25em;
+  font-size:0.24em;
   display: block;
   float: left;
   list-style: none;
-  margin-right: 1em;
+  margin-right: 1.2em;
 }
 
 .links a {
