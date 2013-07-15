@@ -1,0 +1,76 @@
+BODY {
+  background:url(images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  font-family: 'Oswald', sans-serif;
+  font-size:16px;
+  margin:0;
+  padding:0;
+}
+
+a {
+  color:black;
+  text-decoration:none;
+}
+
+.hero {
+  font-size:3.5em;
+  font-weight:800;
+  width:auto;
+  margin:0 10px;
+}
+
+.tagline {
+  font-size:0.501em;
+}
+
+.links ul {
+  margin:0;
+  display:inline;
+}
+
+.links ul li{
+  font-size:0.25em;
+  display: block;
+  float: left;
+  list-style: none;
+  margin-right: 1em;
+}
+
+.links a {
+  opacity:0.8;
+}
+
+.footer {
+  position:fixed;
+  bottom:0;
+  background:#000;
+  width:100%;
+  margin:0;
+  opacity:0.8;
+  color:white;
+  font-weight:300;
+  font-size:0.9em;
+  font-family: 'Raleway', sans-serif;
+}
+
+.footer a {
+  color:white;
+  text-decoration:none;
+}
+
+.left {
+  float:left;
+  padding:5px 10px 5px 10px;
+}
+
+.right {
+  float:right;
+  padding:5px 10px 5px 10px;
+}
+
+.instagram {
+  width:11px;
+}
