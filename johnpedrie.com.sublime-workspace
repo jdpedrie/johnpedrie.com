@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ADMIN",
+				"ADMIN_REWRITE_URL_USE_SSL"
+			],
+			[
+				"ADMI",
+				"ADMIN_REWRITE_URL_USE_SSL"
+			],
+			[
+				"Re",
+				"RewriteAdminUrls"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jdp/Sites/johnpedrie.com/index.html",
+		"/Users/jdp/Sites/johnpedrie.com/config.rb",
+		"/Users/jdp/Sites/johnpedrie.com/style.css",
+		"/Users/jdp/Sites/johnpedrie.com/sass/screen.scss",
+		"/Users/jdp/Sites/johnpedrie.com/sass/_base.scss",
+		"/Users/jdp/Sites/sizzles/app/index.html",
+		"/Users/jdp/Sites/sizzles/app/scripts/filters/number.js",
+		"/Users/jdp/Sites/sizzles/app/views/home.html",
+		"/Users/jdp/Sites/sizzles/app/scripts/controllers/addShares.js",
+		"/Users/jdp/Sites/newsroom/app/views/assignments.html",
+		"/Users/jdp/Sites/newsroom/app/scripts/controllers/assignments.js",
+		"/Users/jdp/Sites/newsroom/api/app.js",
+		"/Users/jdp/Sites/newsroom/app/scripts/app.js",
+		"/Users/jdp/Sites/newsroom/Gruntfile.js",
+		"/Users/jdp/Sites/newsroom/app/scripts/controllers/addAssignments.js",
+		"/Users/jdp/Sites/newsroom/app/index.html",
+		"/Users/jdp/Sites/newsroom/app/views/assignments/add.html",
+		"/Users/jdp/Sites/newsroom/app/views/home.html",
+		"/Users/jdp/Sites/newsroom/app/scripts/controllers/home.js",
+		"/Users/jdp/Sites/newsroom/app/scripts/main.js",
+		"/Users/jdp/Sites/newsroom/app/bower_components/gumby/sass/gumby.scss",
+		"/Users/jdp/Sites/newsroom/app/styles/main.scss",
+		"/Users/jdp/Sites/newsroom/app/images/background.jpg",
+		"/Users/jdp/Sites/newsroom/app/styles/main.css",
+		"/Users/jdp/Sites/newsroom/api/routes/shares.js",
+		"/Users/jdp/Sites/newsroom/bower.json",
+		"/Users/jdp/Sites/newsroom/test/spec/controllers/main.js",
+		"/Users/jdp/Sites/newsroom/package.json",
+		"/Users/jdp/Sites/viralread/wp-content/plugins/viralread/promoted-posts.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/css/autoinclude/style.css",
+		"/Users/jdp/Sites/viralread/wp-content/plugins/reaction-buttons/reaction_buttons.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/functions.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/front-page.php",
+		"/Users/jdp/Sites/viralread/wp-content/w3tc-config/master.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/lib/php/post.class.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/single.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/social-sharing.php",
+		"/Users/jdp/Sites/viralread/wp-content/plugins/viralread/lib/bootstrap.php",
+		"/Users/jdp/Sites/viralread/wp-content/plugins/viralread/lib/Plugin/Bootstrapper.php",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/style.css",
+		"/Users/jdp/Sites/viralread/wp-content/themes/serpent/lib/php/main.php",
+		"/Users/jdp/Sites/viralread/wp-content/plugins/viralread/rewrite-admin-urls.php",
+		"/Users/jdp/Sites/viralread/.htaccess",
+		"/Users/jdp/Sites/viralread/wp-local-config.php",
+		"/Users/jdp/Sites/viralread/wp-config.php",
+		"/Users/jdp/Sites/viralread/wp-login.php",
+		"/Users/jdp/Sites/viralread/google21dd20b5ae2773da.html",
+		"/Users/jdp/Sites/viralread/index.php",
+		"/Users/jdp/Sites/viralread/wp-content/w3tc-config/master-admin.php",
+		"/Users/jdp/Sites/viralread/server-info.php",
+		"/Users/jdp/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/viralread-dev",
+		"/Users/jdp/Sites/influencemark/package.json",
+		"/Users/jdp/Sites/influencemark/Gruntfile.js",
+		"/Users/jdp/Sites/influencemark/app.js",
+		"/Users/jdp/Sites/influencemark/readme.md",
+		"/Users/jdp/Sites/betterthansanford/components/jquery-popbox/component.json",
+		"/Users/jdp/Sites/betterthansanford/index.html",
+		"/Users/jdp/Sites/betterthansanford/assets/main.css",
+		"/Users/jdp/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jdp/Sites/influencemark/config/adapters.js",
+		"/Users/jdp/Sites/influencemark/node_modules/sails-mongo/MongoAdapter.js",
+		"/Users/jdp/Sites/influencemark/node_modules/sails-mongo/README.md",
+		"/Users/jdp/Sites/influencemark/config/application.js",
+		"/Users/jdp/Sites/influencemark/config/views.js",
+		"/Users/jdp/Sites/influencemark/public/Gruntfile.js",
+		"/Users/jdp/.bash_profile",
+		"/Users/jdp/Sites/bloggers_verify/application/config/database.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jdp/Sites/newsroom"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inline",
+			"mode",
+			"styles",
+			"scss",
+			"sizzles",
+			"post->ID",
+			"my",
+			"do_this_hourly",
+			"messages",
+			"key",
+			"update",
+			"haystack",
+			"text",
+			"new_field",
+			"myplugin",
+			"subject",
+			"replace",
+			"needle",
+			"file",
+			"string",
+			"class",
+			"subject",
+			"replace",
+			"ul li",
+			"</li>",
+			"<li ",
+			"li",
+			"add_filter",
+			"add_action",
+			"excerpt",
+			"true",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"newsroom"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true
+}
