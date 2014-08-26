@@ -6,43 +6,48 @@ BODY {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Average Sans', sans-serif;
   font-size:16px;
   margin:0;
   padding:0;
 }
+.container {
+  width: 600px;
+  background: white;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+
+h1 {
+  margin:0;
+  font-family: 'Fjalla One', sans-serif;
+}
 
 a {
-  color:black;
   text-decoration:none;
+  color: #7F7D7F;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
 }
 
-.hero {
-  font-size:3.5em;
-  font-weight:800;
-  width:auto;
-  margin:0 10px;
+a:hover {
+  color: #000;
 }
 
-.tagline {
-  font-size:0.501em;
+.github-ribbon {
+  z-index:1;
 }
 
-.links ul {
-  margin:0;
-  display:inline;
-}
-
-.links ul li{
-  font-size:0.24em;
-  display: block;
-  float: left;
-  list-style: none;
-  margin-right: 1.2em;
-}
-
-.links a {
-  opacity:0.8;
+@media (max-width: 680px) {
+  .container {
+    width:90%;
+    margin: 10px auto 40px;
+  }
 }
 
 .footer {
@@ -71,8 +76,4 @@ a {
 .right {
   float:right;
   padding:5px 10px 5px 10px;
-}
-
-.instagram {
-  width:11px;
 }
