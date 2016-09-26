@@ -5,24 +5,25 @@ BODY {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;;
-  font-family: 'Average Sans', sans-serif;
-  font-size:16px;
+  background-size: cover;
+  font-family: 'Quattrocento', serif;
+  line-height:16pt;
+  font-size:12pt;
   margin:0;
   padding:0;
 }
+
 .container {
   width: 600px;
   background: white;
   margin: 20px;
   padding: 10px;
-  border-radius: 10px;
   opacity: 0.8;
 }
 
 h1 {
   margin:0;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 a {
@@ -60,7 +61,7 @@ a:hover {
   color:white;
   font-weight:300;
   font-size:0.9em;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Quattrocento', serif;
 }
 
 .footer a {
