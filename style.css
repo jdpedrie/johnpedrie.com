@@ -1,12 +1,12 @@
 @-ms-viewport { width: device-width; } @viewport { width: device-width; }
 
 BODY {
-  background:url(images/background.jpg) no-repeat center center fixed;
+  background:url(images/1wd.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: 'Quattrocento', serif;
+  font-family: 'Noto Sans', sans-serif;
   line-height:16pt;
   font-size:12pt;
   margin:0;
@@ -16,14 +16,15 @@ BODY {
 .container {
   width: 600px;
   background: white;
-  margin: 20px;
-  padding: 10px;
-  opacity: 0.8;
+  margin: auto;
+  margin-top:30px;
+  padding: 20px;
+  opacity: 0.6;
 }
 
 h1 {
   margin:0;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 a {
@@ -40,10 +41,6 @@ a:hover {
   color: #000;
 }
 
-.github-ribbon {
-  z-index:1;
-}
-
 @media (max-width: 680px) {
   .container {
     width:90%;
@@ -51,30 +48,13 @@ a:hover {
   }
 }
 
-.footer {
-  position:fixed;
-  bottom:0;
-  background:#000;
-  width:100%;
-  margin:0;
-  opacity:0.8;
-  color:white;
-  font-weight:300;
-  font-size:0.9em;
-  font-family: 'Quattrocento', serif;
+ul {
+  padding: 0;
+  margin: 0;
 }
-
-.footer a {
-  color:white;
-  text-decoration:none;
-}
-
-.left {
-  float:left;
-  padding:5px 10px 5px 10px;
-}
-
-.right {
-  float:right;
-  padding:5px 10px 5px 10px;
+ul li {
+  font-size:1.25em;
+  display: inline-block;
+  list-style-type:none;
+  padding-right:10px;
 }
