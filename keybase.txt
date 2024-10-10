@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/jdp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://johnpedrie.com
+  * I am jdp (https://keybase.io/jdp) on keybase.
+  * I have a public key with fingerprint 6FF6 430F 4653 852D 8EAC  423A 0D9F 0136 5004 6559
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101db5a7cb5aa6192de4c592c8662fd5b2f30f14113d8d15675f51f6f2a3e1769520a",
+            "fingerprint": "6ff6430f4653852d8eac423a0d9f013650046559",
+            "host": "keybase.io",
+            "key_id": "0d9f013650046559",
+            "kid": "0101db5a7cb5aa6192de4c592c8662fd5b2f30f14113d8d15675f51f6f2a3e1769520a",
+            "uid": "ea9461eff8e8b2501f2400fdd44a8719",
+            "username": "jdp"
+        },
+        "service": {
+            "hostname": "johnpedrie.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472482683,
+    "expire_in": 157680000,
+    "prev": "eca032b06e1c17cb0e75fa86bbf8fb2886064fce9b044383408f09f9bfeb51b3",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNBAnicrVJrUFRlGN4VkEtQOZZcpmI6RTsZ0bnvWcwWHMARDKHYiAGBc/k+OAJ7
+lrO7XNyAIcNpBUnBoAbJiTIrILnaOAyZCMTIaIApl0GzGZGYWoqKyW7Sdyx/9bfv
+x/fN977P87zv8847HOSlC9AHHdOzKd4gQz9+9ohTlz78vMuFCYpUjkW7sAJw5wGF
+ErA7cgpkCYvGcAInJIHhjSK6eJYwkRKgRcZEihzLklBiBBJSOCRogqAkTiIY1shA
+hoAsJHkKEEbWxJA4j0ViULbmAdWmylYHkmUhZGnEo1mG4hhS4gAv0iTF45IJ4gTF
+MjiOUowJEfMVu8ZAzQm8HUTJCoqhT84/7f0X/z/37bwjB3gTzRIAQg5wAsngBCRp
+HIeSRNM8ZyS0uk47UK18EUDoPZINq4jEUKBEFoE2U83E3aSSb7UBSZVBlKgUIaJN
+VRyKqBSiXL7DYYvWqI5ym4YtBULOvyo5gmyV0AwRoQSodlmxYtEEQooOWZMlaCNJ
+cyTLUZEYKLPJKsiRNQRjZDkcHa0MKNGciDxOkQLOAkIk0HRwgIzzHCsIkIMCyXEs
+ztJQBCYBp2mKo2icg7gJmgQIBIYQKEzzVWxVNG3UJ5+HNO1ynpV3OFWAVQydzfLW
+6QN0633WoeV6RRfgf//dlWu5fN9a0s7NiRUJbufWavPK/oR86cvkhwsObz90fuOD
+ixuP5e2o8tZ1n3k3vLbbM7c3cfv1Mb+l/aPzBw9wqSlhZumF2V9dy1/fyp/8qYOZ
+j71gG5qKGjgdkdRk7u7qmQqNPMrPtSy63rm954s1y6spA81Z9zYf7e3JLYz4eLxz
++XvnfLHhelFsTe5qjKcmKnGOzRiZ8Zwozry15DvZ09TqV3rtQot+4ek3G8tPTftc
+Gd+VEbywt7L/XMq37SObAp/a1tWwGNL4ZFifuTbb15IQvqX1WnBDSQpzYkv6amHW
+QFtA4dsnlZW6IPPjxlj/vy61f5TqfsbvDXlioqPrWd15r5XPKqarmsdmky2NSRtA
+a9fUGfjb0NUuYnq2YfX2p/W/p580GC5Opr3fltnbq/q/V9Yb1G/IHIVvqZ1fhYfM
+NAb++fLWdfaf+bgIwRDzY3aUh648V3dgft9CgtK/ofWmb5gbxO14ra+v7cWm+vjB
+mCPfbLohxzsu1ca3LqSPXfnA8FD05Y5Bd2fdRUO1ZanS+Nh3Izq+xbN+mE+bfqnn
+uePb+oLLTw0aeoqwHwZOux+oT9tMpRVXd2TvLihLNv9SIo0mhQRaXIc+L02auPHh
+1cNPDK6WJ3up7TtTUw828vpp/p5HfCJCl2NY/tHdNWnGuE9eX9uX3F01GsP9kevp
+C9VJwcdrZuy7wm8mWGThb0aSu4I=
+=02Xd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jdp
+
+==================================================================

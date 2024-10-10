@@ -1,0 +1,60 @@
+@-ms-viewport { width: device-width; } @viewport { width: device-width; }
+
+BODY {
+  background:url(images/1wd.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Noto Sans', sans-serif;
+  line-height:16pt;
+  font-size:12pt;
+  margin:0;
+  padding:0;
+}
+
+.container {
+  width: 600px;
+  background: white;
+  margin: auto;
+  margin-top:30px;
+  padding: 20px;
+  opacity: 0.6;
+}
+
+h1 {
+  margin:0;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+  text-decoration:none;
+  color: #7F7D7F;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+
+a:hover {
+  color: #000;
+}
+
+@media (max-width: 680px) {
+  .container {
+    width:90%;
+    margin: 10px auto 40px;
+  }
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+ul li {
+  font-size:1.25em;
+  display: inline-block;
+  list-style-type:none;
+  padding-right:10px;
+}
